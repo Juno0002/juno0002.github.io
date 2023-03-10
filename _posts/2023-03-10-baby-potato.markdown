@@ -1,8 +1,7 @@
 ---
----
 layout: post
 title:  "baby-potato"
 date:   2023-03-10 15:00:00 +0900
 categories: jekyll update
 ---
-#어케함?????????????
+#해치웠나?
